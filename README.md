@@ -39,7 +39,7 @@ This is not necessary, but we used it when we created our version of the hexpans
 
 We used a [transparent acrylic]() sheet for the top (1mm thick), and a [galaxy-style sheet]() for the second layer (3mm thick). You can play around with different kinds, such as a translucent top sheet for a more diffused look. As long as the two layers total 4mm thick, everything else should slot together without needing to change any other aspects of the design.
 
-3. Solder the LEDs and resistors into the custom PCB. Here's how the LEDs and resistors map on (see the PCB itself), to get the correct magnitude for each star:
+3) Solder the LEDs and resistors into the custom PCB. Here's how the LEDs and resistors map on (see the PCB itself), to get the correct magnitude for each star:
 
 | LED ref | Resistor ref | Resistor value |
 | ------------- | ------------- | ------------- |
@@ -59,7 +59,7 @@ When you first put the LEDs in, you should use the middle part of the 3D printed
 
 4) Take the base chassis piece, and gently place one of the inserts into one of the four holes (from the outside in). Using the soldering iron, gently place the tip on the insert and, using the heat of the iron, VERY SLOWLY AND CAREFULLY apply pressure so that the insert moves in. Ensure that it sits flush with the chassis piece. Repeat for the other 3 holes.
 
-5). You can now start assembling the hexpansion. Take the outer section chassis piece, and slot the top layer acrylic in, followed by the second layer acrylic, followed by the PCB and middle chassis piece (middle chassis piece on top), and then the base chassis piece. Take the 4 screws and secure the base piece to the middle piece (outside in), using the inserts to thread in the screws. Don't screw it too tightly.
+5) You can now start assembling the hexpansion. Take the outer section chassis piece, and slot the top layer acrylic in, followed by the second layer acrylic, followed by the PCB and middle chassis piece (middle chassis piece on top), and then the base chassis piece. Take the 4 screws and secure the base piece to the middle piece (outside in), using the inserts to thread in the screws. Don't screw it too tightly.
 
 
 
