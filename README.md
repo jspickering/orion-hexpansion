@@ -2,6 +2,8 @@
 
 This is an Orion starspansion (hexpansion) for the [EMF Tildagon badge](https://github.com/emfcamp/badge-2024-hardware)
 
+There's a [CAD model](/badge_model/Starspansion.f3z) if you want to see the complete hexpansion.
+
 The guide below shows you which parts you need to make one yourself, and how to assemble it.
 
 ## Materials
