@@ -17,8 +17,8 @@ These are all the materials you will need to create the hexpansion. We've linked
 * 5x 100R resistors ([PiHut](https://thepihut.com/products/resistor-packs?variant=37986550579395))
 * 4x 1,000R resistors ([PiHut](https://thepihut.com/products/resistor-packs?variant=37986550710467))
 * 3D printing filament ([Filamentive](https://www.filamentive.com/product/light-wood-3d-printing-filament-1-75mm-500g/))
-* 4x threaded brass inserts (M2 x 2 x 3.2) (https://www.amazon.co.uk/gp/aw/d/B0D41PW4GC?psc=1&ref=ppx_pop_mob_b_asin_title)
-* 4x screws (M2 x 4) (https://www.amazon.co.uk/Premium-410-Piece-M2-Socket-Screw/dp/B0C1BMQK6T/ref=sr_1_10?dib=eyJ2IjoiMSJ9.ec2XkPjCTLphyCur4SjV1LYcDcoA4TuZfBRzJcCsZN54BXxc_tUUpMuCt5Guri9d9htPosCR-P9NZW7xD_XmA6NsZV3yxVAkDmSuLtaEWaK1z3YoWK5AJ6ooLgJkEJZBYKWCMzO-kyaV45lJbb8jfivTh59yqgS2k-A5ZM3MbI0ZODj77Q6jHUXQh-KLEhTx87yF_xTg8F0XrKIwPlFFHzyhw1RVGwhEqmd6leQLgxVd2MB7YCY5vhOgiUnW6GbrY0Hhkpiv1ALGMNfxzY1rKijh1VJ5ixGamhHxsz14tdk.U6UQpYHKPmatvGg9KSllMK7prQMRhpIz6KX31xTBUUw&dib_tag=se&keywords=m2%2Bscrews&qid=1784233113&sr=8-10&th=1)
+* 4x threaded brass inserts (M2 x 2 x 3.2) ([Amazon](https://www.amazon.co.uk/gp/aw/d/B0D41PW4GC?psc=1&ref=ppx_pop_mob_b_asin_title))
+* 4x screws (M2 x 4) ([Amazon](https://www.amazon.co.uk/Premium-410-Piece-M2-Socket-Screw/dp/B0C1BMQK6T/ref=sr_1_10?dib=eyJ2IjoiMSJ9.ec2XkPjCTLphyCur4SjV1LYcDcoA4TuZfBRzJcCsZN54BXxc_tUUpMuCt5Guri9d9htPosCR-P9NZW7xD_XmA6NsZV3yxVAkDmSuLtaEWaK1z3YoWK5AJ6ooLgJkEJZBYKWCMzO-kyaV45lJbb8jfivTh59yqgS2k-A5ZM3MbI0ZODj77Q6jHUXQh-KLEhTx87yF_xTg8F0XrKIwPlFFHzyhw1RVGwhEqmd6leQLgxVd2MB7YCY5vhOgiUnW6GbrY0Hhkpiv1ALGMNfxzY1rKijh1VJ5ixGamhHxsz14tdk.U6UQpYHKPmatvGg9KSllMK7prQMRhpIz6KX31xTBUUw&dib_tag=se&keywords=m2%2Bscrews&qid=1784233113&sr=8-10&th=1))
 
 
 ### Optional
