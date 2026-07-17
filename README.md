@@ -67,4 +67,9 @@ When you first put the LEDs in, you should use the middle part of the 3D printed
 
 # Appendix
 ## Ordering the PCB
-(WIP)
+If you'd like to customise the PCB we've provided a [KiCad project](/PCB/starspansion_kicad/). If you just want to order the PCB, all you need is the [gerbers](/PCB/starspansion_kicad/gerbers.zip) .zip file. Head over to JLCPCB.com (or a PCB manufacturer of your choice) and select 'Order Now'. Drag and drop the gerbers .zip (or select 'Add gerber file') onto the upload area amd wait a few moments until the upload is complete and a visual representation of the PCB is displayed. The existing settings will be correct for the most part with two important exceptions:
+
+PCB Thickness: 1mm
+Surface Finish: ENIG
+
+Feel free to choose the colour and number or copies as you'd like. Once you've chosen the settings, choose 'SAVE TO CART' and you can go ahead and head to your basket and place the order.
