@@ -45,7 +45,7 @@ This is not necessary, but we used it when we created our version of the hexpans
 
 We used a transparent acrylic sheet for the top (1mm thick) just to add a bit of protection, and a galaxy-style sheet for the second layer (3mm thick) for a more space-themed look. You can play around with different kinds, such as a translucent top sheet for a more diffused look. As long as the two layers total 4mm thick, everything else should slot together without needing to change any other aspects of the design.
 
-![Two acrylics -- a transparent top piece overlaid and offset from the galaxy second piece](/images/acrylics.jpg)
+<img src="https://github.com/jspickering/orion-hexpansion/blob/main/images/acrylics.jpg" alt="Two acrylics -- a transparent top piece overlaid and offset from the galaxy second piece" width="500">
 
 3) Solder the LEDs and resistors into the custom PCB. Here's how the LEDs and resistors map on (see the PCB itself), to get the correct magnitude for each star:
 
@@ -65,23 +65,23 @@ We used a transparent acrylic sheet for the top (1mm thick) just to add a bit of
 
 When you first put the LEDs in, you should use the middle part of the 3D printed chassis to ensure they're in the correct position before soldering (each pointed part of the LED should be visible in the holes when looking at it top-down -- there are some screw holes to help you hold it together if needed. You may need to take it off and put it back on a few times as you go. Finish with it slotted into the PCB and LEDs.
 
-![The middle chassis -- a 3D printed piece with holes for the LEDs and resistors](/images/middle_chassis.jpg)
+<img src="https://github.com/jspickering/orion-hexpansion/blob/main/images/middle_chassis.jpg" alt="The middle chassis -- a 3D printed piece with holes for the LEDs and resistors" width="500">
 
 4) Take the base chassis piece, and gently place one of the brass inserts into one of the four holes (from the outside in). Using the soldering iron, gently place the tip on the insert and, using the heat of the iron, VERY SLOWLY AND CAREFULLY apply pressure so that the insert moves in. Ensure that it sits flush with the chassis piece. Repeat for the other 3 holes.
 
-![The base chassis and middle chassis pieces, showing the brass inserts sitting flush with the 3D print](/images/base_chassis_inserts.jpg)
+<img src="https://github.com/jspickering/orion-hexpansion/blob/main/images/base_chassis_inserts.jpg" alt="The base chassis and middle chassis pieces, showing the brass inserts sitting flush with the 3D print" width="500">
 
 5) You can now start assembling the hexpansion. Take the outer section chassis piece, and slot the top layer acrylic in, followed by the second layer acrylic, followed by the PCB and middle chassis piece (middle chassis piece on top), and then the base chassis piece.
 
-![A side view of the badge, showing the layering](/images/side_view.jpg)
+<img src="https://github.com/jspickering/orion-hexpansion/blob/main/images/side_view.jpg" alt="A side view of the badge, showing the layering" width="500">
 
 Take the four screws and secure the base piece to the middle piece (outside in), using the inserts to thread in the screws. Don't screw it too tightly.
 
-![A bottom view of the badge, showing the screws](/images/bottom_view.jpg)
+<img src="https://github.com/jspickering/orion-hexpansion/blob/main/images/bottom_view.jpg" alt="A bottom view of the badge, showing the screws" width="500">
 
 And there it is. A complete Orion Starspansion hexpansion!
 
-![A top view of the badge, showing the finished product](/images/top_view.jpg)
+<img src="https://github.com/jspickering/orion-hexpansion/blob/main/images/top_view.jpg" alt="A top view of the badge, showing the finished product" width="500">
 
 # Appendix
 ## Ordering the PCB
