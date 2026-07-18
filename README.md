@@ -25,7 +25,8 @@ These are all the materials you will need to create the hexpansion. We've linked
 * 4x screws (M2 x 4) ([Amazon](https://www.amazon.co.uk/Premium-410-Piece-M2-Socket-Screw/dp/B0C1BMQK6T/ref=sr_1_10?dib=eyJ2IjoiMSJ9.ec2XkPjCTLphyCur4SjV1LYcDcoA4TuZfBRzJcCsZN54BXxc_tUUpMuCt5Guri9d9htPosCR-P9NZW7xD_XmA6NsZV3yxVAkDmSuLtaEWaK1z3YoWK5AJ6ooLgJkEJZBYKWCMzO-kyaV45lJbb8jfivTh59yqgS2k-A5ZM3MbI0ZODj77Q6jHUXQh-KLEhTx87yF_xTg8F0XrKIwPlFFHzyhw1RVGwhEqmd6leQLgxVd2MB7YCY5vhOgiUnW6GbrY0Hhkpiv1ALGMNfxzY1rKijh1VJ5ixGamhHxsz14tdk.U6UQpYHKPmatvGg9KSllMK7prQMRhpIz6KX31xTBUUw&dib_tag=se&keywords=m2%2Bscrews&qid=1784233113&sr=8-10&th=1))
 
 ![A desk displaying all the main parts for the hexpansion e.g. 3D printed chassis pieces, acrylics, and PCB](/images/parts.jpg)
-<img src="https://github.com/jspickering/orion-hexpansion/blob/main/images/parts.jpg" width="48">
+
+<img src="https://github.com/jspickering/orion-hexpansion/blob/main/images/parts.jpg" width="500">
 
 ### Optional
 This is not necessary, but we used it when we created our version of the hexpansion.
